@@ -1,3 +1,8 @@
+Common ig-platform-ids:
+```
+z0x01660003: HD4000 1366x768
+```
+
 https://www.reddit.com/r/hackintosh/comments/den28t/whats_new_in_macos_catalina/
 
 catalina problem
