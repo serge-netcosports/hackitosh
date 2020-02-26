@@ -1,6 +1,6 @@
 
-Clover EFI installer log - Fri Feb 14 21:36:51 +03 2020
-Installer version: v2.5k r5103 EFI bootloader
+Clover EFI installer log - Fri Feb 21 16:00:12 +03 2020
+Installer version: v2.5k r5102 EFI bootloader
 ======================================================
 /dev/disk0 (internal, physical):
    #:                       TYPE NAME                    SIZE       IDENTIFIER
@@ -13,13 +13,13 @@ Installer version: v2.5k r5103 EFI bootloader
    #:                       TYPE NAME                    SIZE       IDENTIFIER
    0:      APFS Container Scheme -                      +300.0 GB   disk1
                                  Physical Store disk0s3
-   1:                APFS Volume MyFiles                 260.2 GB   disk1s1
+   1:                APFS Volume MyFiles                 265.6 GB   disk1s1
 
 /dev/disk2 (synthesized):
    #:                       TYPE NAME                    SIZE       IDENTIFIER
    0:      APFS Container Scheme -                      +200.1 GB   disk2
                                  Physical Store disk0s2
-   1:                APFS Volume Без названия — данные   180.0 GB   disk2s1
+   1:                APFS Volume Без названия — данные   180.3 GB   disk2s1
    2:                APFS Volume Preboot                 88.0 MB    disk2s2
    3:                APFS Volume Recovery                528.5 MB   disk2s3
    4:                APFS Volume VM                      5.2 GB     disk2s4
